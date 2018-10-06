@@ -43,7 +43,7 @@
         android:layout_weight="1"
         android:background="@color/colorAccent"
         android:onClick="save"
-        android:text="SAVE"/>
+        android:text="Save"/>
 
 
 
